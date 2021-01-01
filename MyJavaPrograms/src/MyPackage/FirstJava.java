@@ -6,7 +6,7 @@ public class FirstJava {
 
 
 		System.out.println("My Area is this");
-	
+		System.out.println("My Area is this 123");
 		
 
 
